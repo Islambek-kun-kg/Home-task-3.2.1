@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home-task-3.2.1</string>
+    <string name="hi">Напишите что-нибудь:</string>
+    <string name="send">Отправить изображение на главный экран.</string>
+    <string name="next">Перейти во второй экран!</string>
+    <string name="send1">Отправить сообщение.</string>
+</resources>
